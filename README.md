@@ -6,7 +6,7 @@
 
 I am a curious Data Science student. I love coding, reading and writing ML/AI related blogs.
 
-<img align="right" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
+<img align="right" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" height="200px">
 
 ### Get to know me
 
