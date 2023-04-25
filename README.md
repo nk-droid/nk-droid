@@ -2,11 +2,11 @@
     Hey, Welcome to my profile... <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 </h1>
 
-<img align="right" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
-
 ## Glad to see you here!!! :)
 
 I am a curious Data Science student. I love coding, reading and writing ML/AI related blogs.
+
+<img align="right" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
 ### Get to know me
 
