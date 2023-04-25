@@ -13,7 +13,7 @@ I am a curious Data Science student. I love coding, reading and writing ML/AI re
 - 🎓 I'm currently pursuing my Bachelor's degree in **Data Science and Applications** from **IIT Madras.**
 - 🔭 I'm currently working on some **Deep Learning projects.**
 - 🌱 I'm current learning **MLOps and Cloud.**
-- 👯 I'm looking to collaborate on **Data Science.**
+- 👯 I'm looking to collaborate on **Data Science Projects.**
 
 ## <img src="https://img.icons8.com/office/256/maintenance.png" width="25px"> Tools I'm familiar with...
 
