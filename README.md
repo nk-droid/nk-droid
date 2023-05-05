@@ -2,13 +2,13 @@
     Hey, Welcome to my profile... <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 </h1>
 
-## Glad to see you here!!! <img src="https://media0.giphy.com/media/hof5uMY0nBwxyjY9S2/giphy.gif?cid=ecf05e47ulcs98soshh09riypf22t8106mz8vdk1b7laza7i&ep=v1_stickers_search&rid=giphy.gif&ct=g" width="25">
+## Glad to see you here!!! <img src="https://media0.giphy.com/media/hof5uMY0nBwxyjY9S2/giphy.gif?cid=ecf05e47ulcs98soshh09riypf22t8106mz8vdk1b7laza7i&ep=v1_stickers_search&rid=giphy.gif&ct=g" width="28">
 
 I am a curious Data Science student. I love coding, reading and writing ML/AI related blogs.
 
 <img align="right" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" height="200px">
 
-### Get to know me <img src="https://media0.giphy.com/media/hof5uMY0nBwxyjY9S2/giphy.gif?cid=ecf05e47ulcs98soshh09riypf22t8106mz8vdk1b7laza7i&ep=v1_stickers_search&rid=giphy.gif&ct=g" width="20">
+### Get to know me <img src="https://media0.giphy.com/media/hof5uMY0nBwxyjY9S2/giphy.gif?cid=ecf05e47ulcs98soshh09riypf22t8106mz8vdk1b7laza7i&ep=v1_stickers_search&rid=giphy.gif&ct=g" width="28">
 
 - 🎓 I'm currently pursuing my Bachelor's degree in **Data Science and Applications** from **IIT Madras.**
 - 🔭 I'm currently working on some **Deep Learning projects.**
