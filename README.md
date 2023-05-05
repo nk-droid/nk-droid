@@ -73,12 +73,12 @@ I am a curious Data Science student. I love coding, reading and writing ML/AI re
 ## Connect with me...
 <p align="left">
     <a href="https://www.linkedin.com/in/nidhishkumar">
-        <img src="https://img.icons8.com/fluency/256/linkedin.png" height="80px">
+        <img src="https://img.icons8.com/fluency/256/linkedin.png" height="50px">
     </a>
     <a href="https://www.hackerrank.com/nidhish_22k">
-        <img alt="hackerrank" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/256/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png" height="80px">
+        <img alt="hackerrank" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/256/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png" height="50px">
     </a>
     <a href="mailto:nidhish.22k@gmail.com">
-        <img alt="hackerrank" src="https://img.icons8.com/fluency/256/gmail-new.png" height="80px">
+        <img alt="hackerrank" src="https://img.icons8.com/fluency/256/gmail-new.png" height="50px">
     </a>
 </p>
