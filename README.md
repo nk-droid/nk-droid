@@ -81,4 +81,7 @@ I am a curious Data Science student. I love coding, reading and writing ML/AI re
     <a href="mailto:nidhish.22k@gmail.com">
         <img alt="hackerrank" src="https://img.icons8.com/fluency/256/gmail-new.png" height="50px">
     </a>
+    <a href="https://t.me/nidhish221">
+        <img src="https://img.icons8.com/nolan/64/telegram-app.png" height="50px"/>
+    </a>
 </p>
