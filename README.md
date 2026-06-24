@@ -1,87 +1,200 @@
-<h1 align="center">
-    Hey, Welcome to my profile... <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
-</h1>
+<h1 align="center">Nidhish Kumar</h1>
 
-## Glad to see you here!!! <img src="https://media0.giphy.com/media/hof5uMY0nBwxyjY9S2/giphy.gif?cid=ecf05e47ulcs98soshh09riypf22t8106mz8vdk1b7laza7i&ep=v1_stickers_search&rid=giphy.gif&ct=g" width="28">
+<p align="center">
+  <b>AI Engineer · Production LLM Systems · RAG · Agentic Workflows · Backend AI Infrastructure</b>
+</p>
 
-I am a curious Data Science student. I love coding, reading and writing ML/AI related blogs.
+<p align="center">
+  <a href="https://nidhishk.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-nidhishk.vercel.app-111827?style=flat&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/nidhishkumar">
+    <img src="https://img.shields.io/badge/LinkedIn-Nidhish_Kumar-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:nidhish.22k@gmail.com">
+    <img src="https://img.shields.io/badge/Email-nidhish.22k%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-<img align="right" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" height="200px">
+---
 
-### Get to know me <img src="https://media0.giphy.com/media/hof5uMY0nBwxyjY9S2/giphy.gif?cid=ecf05e47ulcs98soshh09riypf22t8106mz8vdk1b7laza7i&ep=v1_stickers_search&rid=giphy.gif&ct=g" width="28">
+## About
 
-- 🎓 I'm currently pursuing my Bachelor's degree in **Data Science and Applications** from **IIT Madras.**
-- 🔭 I'm currently working on some **Deep Learning projects.**
-- 🌱 I'm current learning **MLOps and Cloud.**
-- 👯 I'm looking to collaborate on **Data Science Projects.**
+I build production-grade AI systems that move beyond prototypes and survive real users.
 
-## <img src="https://img.icons8.com/office/256/maintenance.png" width="25px"> Tools I'm familiar with...
+I currently work as an **SDE - AI/ML at 2Sigma School**, a US-based EdTech startup, where I build and integrate LLM-powered pipelines for grading, content generation, adaptive learning, evaluation, and backend automation.
 
-### 👨‍💻 Programming Languages
+My work focuses on building AI systems that are:
 
-<span>
-    <img src="https://img.shields.io/badge/Python-1e405e?style=flat&logo=python&logoColor=white" height="25px">
-    <img src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white" height="25px">
-    <img src="https://img.shields.io/badge/HTML-dd4b25?style=flat&logo=html5&logoColor=white" height="25px">
-    <img src="https://img.shields.io/badge/CSS-254bdd?style=flat&logo=css3&logoColor=white" height="25px">
-    <img src="https://img.shields.io/badge/JavaScript-fcdc00?style=flat&logo=javascript&logoColor=black" height="25px">
-    <img src="https://img.shields.io/badge/Java-3a75b0?style=flat&logo=openjdk&logoColor=white" height="25px">
-    <img src="https://img.shields.io/badge/Markdown-3d9ee8?style=flat&logo=markdown&logoColor=white" height="25px">
-    <img src="https://custom-icon-badges.herokuapp.com/badge/SQL-3b71a8.svg?logo=database&logoColor=white" height="25px">
-</span>
+- **Useful in production**, not just impressive in demos
+- **Observable, testable, and debuggable**
+- **Grounded with evaluation and quality checks**
+- **Integrated with real backend workflows**
+- **Designed for reliability, cost-awareness, and maintainability**
 
-### 🧰 Frameworks and Libraries
+---
 
-<span>
-    <img src="https://img.shields.io/badge/Numpy-113f4f?style=flat&logo=numpy&logoColor=white" height="25px">
-    <img src="https://img.shields.io/badge/Pandas-130654?style=flat&logo=pandas&logoColor=white" height="25px">
-    <img src="https://img.shields.io/badge/Flask-white?style=flat&logo=flask&logoColor=black" height="25px">
-    <img src="https://img.shields.io/badge/SciKit Learn-ff9c34?style=flat&logo=scikitlearn&logoColor=white" height="25px">
-    <img src="https://img.shields.io/badge/Vue.js-42b883?style=flat&logo=Vue.js&logoColor=white" height="25px">
-    <img src="https://img.shields.io/badge/Bootstrap-722ef9?style=flat&logo=bootstrap&logoColor=white" height="25px">
-    <img src="https://img.shields.io/badge/PYTORCH-black?style=flat&logo=pytorch&logoColor=white" height="25px"> 
-    <img src="https://img.shields.io/badge/Keras-d00000?style=flat&logo=keras&logoColor=white" height="25px">
-    <img src="https://img.shields.io/badge/Tensorflow-ff7c00?style=flat&logo=tensorflow&logoColor=white" height="25px">
-</span>
+## Professional Highlights
 
-### 🗄️ Databases and Cloud Services
+- Built and integrated **11 production AI pipelines** for an adaptive learning platform
+- Designed an automated coding-question grading pipeline that reduced manual grading effort by **~70%**
+- Built healing pipelines that auto-detect and repair malformed generated content, reducing generation failures by **~94%**
+- Generated **17,000+ questions** and auto-mapped skills from curriculum sources
+- Built content-import pipelines converting raw course material into structured platform items across **5 item types**
+- Fine-tuned and evaluated **GPT-3.5, Mistral, and other LLMs** for educational content-generation workflows
+- Mentored **100+ IIT Madras software engineering project teams** through design, implementation, testing, and evaluation
 
-<span>
-    <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" height="25px">
-    <img src="https://img.shields.io/badge/SQLite-044a64?style=flat&logo=sqlite&logoColor=white" height="25px">
-    <img src="https://img.shields.io/badge/Redis-d2352a?style=flat&logo=redis&logoColor=white" height="25px">
-    <img src="https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white" height="25px">
-    <img src="https://img.shields.io/badge/Streamlit-ff4b4b?style=flat&logo=streamlit&logoColor=white" height="25px">
-</span>
+---
 
-### 💻 Softwares and other tools
+## Featured Projects
 
-<span>
-    <img src="https://img.shields.io/badge/Visual Studio Code-0066b8?style=flat&logo=visualstudiocode&logoColor=white" height="25px">
-    <img src="https://img.shields.io/badge/Postman-ff6c37?style=flat&logo=postman&logoColor=white" height="25px">
-    <img src="https://img.shields.io/badge/Docker-003f8c?style=flat&logo=docker&logoColor=white" height="25px">
-    <img src="https://img.shields.io/badge/Git-f44d27?style=flat&logo=git&logoColor=white" height="25px">
-    <img src="https://img.shields.io/badge/GitHub-0d1116?style=flat&logo=github&logoColor=white" height="25px">
-    <img src="https://img.shields.io/badge/Colab-f9ab00?style=flat&logo=googlecolab&logoColor=white" height="25px">
-    <img src="https://img.shields.io/badge/Jupyter-f37726?style=flat&logo=jupyter&logoColor=white" height="25px">
-    <img src="https://img.shields.io/badge/Celery-a9cc54?style=flat&logo=celery&logoColor=black" height="25px">
-    <img src="https://img.shields.io/badge/OBS Studio-1a191a?style=flat&logo=obsstudio&logoColor=white" height="25px">
-</span>
-<br>
-<br>
+### [AutoPR - Autonomous Issue-to-PR Agent System](https://github.com/nk-droid/AutoPR)
 
-## Connect with me...
-<p align="left">
-    <a href="https://www.linkedin.com/in/nidhishkumar">
-        <img src="https://img.icons8.com/fluency/256/linkedin.png" height="50px">
-    </a>
-    <a href="https://www.hackerrank.com/nidhish_22k">
-        <img alt="hackerrank" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/256/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png" height="50px">
-    </a>
-    <a href="mailto:nidhish.22k@gmail.com">
-        <img alt="hackerrank" src="https://img.icons8.com/fluency/256/gmail-new.png" height="50px">
-    </a>
-    <a href="https://t.me/nidhish221">
-        <img src="https://img.icons8.com/nolan/64/telegram-app.png" height="50px"/>
-    </a>
+A production-style agentic coding system that converts GitHub issues into planned, tested, and reviewable pull requests.
+
+**What it demonstrates**
+
+- Multi-stage agent workflow: triage, planning, code generation, QA, PR creation, review, and merge control
+- GitHub webhook ingestion and asynchronous worker execution
+- Redis-backed queueing and durable job processing
+- PostgreSQL-backed run state, artifacts, and review requests
+- Ray-based execution for heavier agent and QA workflows
+- QA gates for linting, tests, coverage, and security checks
+- OpenTelemetry, Prometheus, Grafana, and tracing for observability
+- Human-in-the-loop review flow for safer automation
+
+**Stack**
+
+`Python` · `FastAPI` · `LangGraph` · `Ray` · `Redis` · `PostgreSQL` · `Docker` · `OpenTelemetry` · `Prometheus` · `Grafana`
+
+---
+
+### [RAG Pipeline and Evaluation Framework](https://github.com/nk-droid/rag)
+
+A configurable RAG framework for composing, running, comparing, and evaluating retrieval-augmented generation pipelines.
+
+**What it demonstrates**
+
+- Modular RAG architecture with configurable pipeline components
+- BM25, dense retrieval, hybrid search, rank fusion, and reranking
+- Generation, self-critique, and evaluation flows
+- RAG evaluation across context relevancy, faithfulness, answer quality, and latency
+- FastAPI backend for running pipelines
+- React/MUI interface for inspecting retrieved contexts, generated answers, and evaluation outputs
+
+**Stack**
+
+`Python` · `FastAPI` · `React` · `MUI` · `LangChain` · `RAGAS` · `FAISS` · `BM25` · `Reranking`
+
+---
+
+## Technical Stack
+
+### AI Systems / LLM Engineering
+
+<p>
+  <img src="https://img.shields.io/badge/LLM_Applications-111827?style=flat" />
+  <img src="https://img.shields.io/badge/RAG-1F2937?style=flat" />
+  <img src="https://img.shields.io/badge/Agentic_Workflows-374151?style=flat" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat" />
+  <img src="https://img.shields.io/badge/LangGraph-0F172A?style=flat" />
+  <img src="https://img.shields.io/badge/RAGAS-334155?style=flat" />
+  <img src="https://img.shields.io/badge/Embeddings-4B5563?style=flat" />
+  <img src="https://img.shields.io/badge/Reranking-6B7280?style=flat" />
+  <img src="https://img.shields.io/badge/Fine--tuning-111827?style=flat" />
+  <img src="https://img.shields.io/badge/Structured_Outputs-1F2937?style=flat" />
+</p>
+
+### Backend / Infrastructure
+
+<p>
+  <img src="https://img.shields.io/badge/Python-1E405E?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat" />
+  <img src="https://img.shields.io/badge/SQLAlchemy-CB171E?style=flat" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-D2352A?style=flat&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ray-028CF0?style=flat" />
+  <img src="https://img.shields.io/badge/Docker-003F8C?style=flat&logo=docker&logoColor=white" />
+</p>
+
+### Evaluation / Observability / Quality
+
+<p>
+  <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat&logo=pytest&logoColor=white" />
+  <img src="https://img.shields.io/badge/ruff-261230?style=flat" />
+  <img src="https://img.shields.io/badge/Coverage-111827?style=flat" />
+  <img src="https://img.shields.io/badge/OpenTelemetry-000000?style=flat&logo=opentelemetry&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tempo-2563EB?style=flat" />
+</p>
+
+### ML / Data / Frontend
+
+<p>
+  <img src="https://img.shields.io/badge/Scikit--learn-FF9C34?style=flat&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF7C00?style=flat&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-113F4F?style=flat&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-130654?style=flat&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/MUI-007FFF?style=flat&logo=mui&logoColor=white" />
+</p>
+
+---
+
+## Experience Snapshot
+
+```txt
+2Sigma School
+SDE - AI/ML
+Oct 2024 - Present
+
+2Sigma School
+Data Science Intern
+Dec 2023 - Sep 2024
+
+IIT Madras BS in Data Science Programme
+Academic Consultant / Teaching Assistant
+Feb 2024 - Present
+````
+
+---
+
+## Education
+
+**Indian Institute of Technology Madras**
+Bachelor of Science in Data Science and Applications
+CGPA: **9.10/10**
+
+**Patliputra University, Patna**
+Bachelor of Science in Mathematics
+
+---
+
+## Achievements
+
+* **Winner** - AI Agent Hackathon, IIT Madras
+* **Finalist** - Smart India Hackathon 2023, ISRO Challenge
+* **Top 5 Finalist** - Dr. Reddy's Digital Health Hackathon, among 1900+ teams
+* **Winner** - Formula Dev Hackathon
+* **Winner** - Techopoly Hackathon
+
+---
+
+## Contact
+
+I am interested in roles where I can build reliable AI systems, LLM applications, RAG platforms, agentic workflows, and backend AI infrastructure.
+
+<p>
+  <a href="https://nidhishk.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-nidhishk.vercel.app-111827?style=flat&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/nidhishkumar">
+    <img src="https://img.shields.io/badge/LinkedIn-Nidhish_Kumar-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:nidhish.22k@gmail.com">
+    <img src="https://img.shields.io/badge/Email-nidhish.22k%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
 </p>
